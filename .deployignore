@@ -1,4 +1,5 @@
 .deployignore
+.dockerignore
 
 .ackrc
 .babelrc
